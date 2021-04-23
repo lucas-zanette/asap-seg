@@ -1,0 +1,16 @@
+com/seguros/asap/entity/Cliente.java
+ com.seguros.asap.entity.Cliente
+com/seguros/asap/resource/IndexController.java
+ com.seguros.asap.resource.IndexController
+com/seguros/asap/repository/ApoliceRepository.java
+ com.seguros.asap.repository.ApoliceRepository
+com/seguros/asap/entity/Apolice.java
+ com.seguros.asap.entity.Apolice
+com/seguros/asap/Main.java
+ com.seguros.asap.Main
+com/seguros/asap/resource/ApoliceController.java
+ com.seguros.asap.resource.ApoliceController
+com/seguros/asap/repository/ClienteRepository.java
+ com.seguros.asap.repository.ClienteRepository
+com/seguros/asap/resource/ClienteController.java
+ com.seguros.asap.resource.ClienteController
